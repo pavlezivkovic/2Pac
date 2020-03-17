@@ -1,0 +1,52 @@
+body{
+    background-color: #000000 !important;
+    height: 1080px !important:
+}
+.bacg{
+     background-image: url(paac.jpg) !important;
+     width: 60%;
+}
+form{
+    max-width: 1000px !important;
+    font-family: 'Exo 2', sans-serif;
+    height: 903px !important;
+    
+}
+.forma{
+    width:60%;
+}
+.bojadugmet{
+    background-color:none;
+    border: 1px solid black !important;
+    font-size: 30px;
+}
+.btn{
+    min-width: 100px ;
+        
+
+}
+.icon{
+    min-width: 0px !important;
+    height: 40px;
+    width:40px;
+    border:0px solid black !important;
+    border-radius: 10px
+}
+.dropitems:hover{
+   background-color: #CCC9C9 !important;
+    color: white !important;
+}
+.dropitems{
+    background-color: #FFFFFF  ;
+    color: RGB
+ 255, 255, 255  ;
+    font-size:20px;
+    font-family: 'Monoton', cursive;
+       
+}
+.nav{
+    background-color: #000000;
+    border-bottom: 4px solid black;
+    font-size:20px;
+    font-family: 'Monoton', cursive !important;
+    color:white !important;

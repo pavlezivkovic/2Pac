@@ -1,0 +1,76 @@
+.slide1{
+    
+    height: 903px !important;
+    
+    background-image: url(cali.jpg) !important;
+    background-repeat: no-repeat;
+    background-size:cover; 
+    
+    
+}
+.pslajd1{
+
+    font-size: 14px !important;
+    margin-left: 500px !important;
+    width:500px;
+    margin-right: 400px;
+    float: right;
+    top:20%;
+    transform: translateY(-50%);
+    position: relative;
+    color: white;
+    font-family: 'Courgette', cursive;
+    color: white !important;
+    margin-top: 20px;
+    height: 25%;
+}
+.pslajdp{
+
+    font-size: 14px !important;
+    margin-left: 500px !important;
+    width:500px;
+    margin-right: 400px;
+    float: right;
+    top:20%;
+    transform: translateY(-50%);
+    position: relative;
+    color: white;
+    font-family: 'Courgette', cursive;
+    color: white !important;
+    margin-top: 20px;
+    height: 25%;
+}
+body{
+    max-height: 1080px;
+    overflow-y: hidden;
+}
+.psl{
+font-size: 18px !important;
+
+}
+.nab{
+    background-color: #000000;
+    border-bottom: 4px solid black;
+    font-size:20px;
+    font-family: 'Monoton', cursive !important;
+    color:white !important;
+}
+.pslajd1:hover{
+    
+    text-decoration: none !important;
+    color: #cccccc !important;
+}
+.dropitems:hover{
+   background-color: #CCC9C9   !important;
+    color: white !important;
+}
+.dropitems{
+    background-color: #FFFFFF  ;
+    color: rgba(255,255,255,);
+    font-size:20px;
+    font-family: 'Monoton', cursive;
+       
+}
+.h1{
+color: #ffffff !important;
+}

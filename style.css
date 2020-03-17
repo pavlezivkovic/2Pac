@@ -1,0 +1,69 @@
+.slide1{
+    
+    height: 903px !important;
+    
+    background-image: url(poz.jpg) !important;
+    background-repeat: no-repeat;
+    background-size:cover;     
+    
+}
+.pslajd1{
+
+    font-size: 20px !important;
+    margin-left: 150px !important;
+    width:300px;
+    margin-right: 900px;
+    float: right;
+    top:20%;
+    transform: translateY(-50%);
+    position: relative;
+    color: white;
+    font-family: 'Courgette', cursive;
+    color: white !important;
+    margin-top: 20px
+}
+.pslajdp{
+
+    font-size: 20px !important;
+    margin-left: 150px !important;
+    width:300px;
+    margin-right: 900px;
+    float: right;
+    top:20%;
+    transform: translateY(-50%);
+    position: relative;
+    color: white;
+    font-family: 'Courgette', cursive;
+    color: white !important;
+    margin-top: 20px;
+}
+body{
+    max-height: 1080px;
+    overflow-y: hidden;
+}
+.psl{
+font-size: 20px !important;
+}
+.nab{
+    background-color: #000000;
+    border-bottom: 4px solid black;
+    font-size:20px;
+    font-family: 'Monoton', cursive !important;
+    color:white !important;
+}
+.pslajd1:hover{
+    
+    text-decoration: none !important;
+    color: #cccccc !important;
+}
+.dropitems:hover{
+   background-color: #CCC9C9   !important;
+    color: white !important;
+}
+.dropitems{
+    background-color: #FFFFFF  ;
+    color: rgba(255,255,255,);
+    font-size:20px;
+    font-family: 'Monoton', cursive;
+       
+}
